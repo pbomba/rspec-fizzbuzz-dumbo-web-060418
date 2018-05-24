@@ -7,4 +7,5 @@ def fizzbuzz(num)
     return "buzz"
   else
     return nil
+  end
 end
